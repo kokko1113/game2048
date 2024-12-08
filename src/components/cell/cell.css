@@ -1,0 +1,46 @@
+.cell{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin: 5px;
+    width: 80px;
+    height: 80px;
+    background: rgb(184, 184, 184);
+    border-radius: 8px;
+}
+.cell1{
+    background: rgb(153, 211, 163);
+}
+.cell2{
+    background: rgb(120, 168, 62);
+}
+.cell3{
+    background: rgb(205, 146, 216);
+}
+.cell4{
+    background: rgb(105, 133, 198);
+}
+.cell5{
+    background: rgb(231, 222, 139);
+}
+.cell6{
+    background: rgb(214, 147, 185);
+}
+.cell7{
+    background: rgb(236, 143, 100);
+}
+.cell8{
+    background: rgb(210, 116, 116);
+}
+.cell9{
+    background: rgb(96, 34, 34);
+}
+.cell10{
+    background: rgb(134, 209, 220);
+}
+.cell11{
+    background: gold;
+}

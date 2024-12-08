@@ -1,0 +1,10 @@
+.field{
+  width: 380px;
+  height: 380px;
+  border: 10px solid gray;
+  background-color: gray;
+  border-radius: 8px;
+}
+.row{
+  display: flex;
+}
